@@ -5,6 +5,7 @@ This is an Python script with two master Module: OpenCV2 and numPy
  This script help you to have a stream capture server for you CCTV Camera or any device supported RTSP Protocol.
  
 if you have a NVR or some Prices APP for this usage in general they have a limitation of Channel or camera you can have cuncurrently, but with this script you can Monitor all of entire your IP-Camera in one view and after view all of them as a small window, you can press number of each camera on keyboard to have full screen of that camera video.
+And Press 'c' key on keyboard to capture frame you see it in full screen mode.
 
 usage is very easy, this script you can run on every os you like(with some small change in address type like windows use c:\windows\... and linux base os use /home/user01/Desktop/....
 
